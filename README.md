@@ -1,9 +1,6 @@
 # MPST-2025-I
 En este repositorio se encuentran todas las notas del curso Modelado no lineal de series de tiempo. Material adicional será suministrado durante clase.
 
-# MPST-2024-I
-En este repositorio se encuentran todas las notas del curso Modelado no lineal de series de tiempo. Material adicional será suministrado durante clase.
-
 ### Descripción de la asignatura:
 Las tareas de modelado y pronóstico de series de tiempo son fundamentales en la planificación y toma de decisiones en diversos ámbitos. En ocasiones, un modelo lineal es suficiente para satisfacer las necesidades de una organización; sin embargo, en problemas como el de pronóstico de precios, demandas o variables ambientales no se obtiene una solución satisfactoria con estos modelos. Por tanto, la persona a cargo de un problema debe conocer un conjunto de modelos no lineales que permitan representar fenómenos más complejos y con características que no se adecuan a las hipótesis de los modelos estándar.
 
